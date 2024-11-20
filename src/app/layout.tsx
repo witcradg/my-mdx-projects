@@ -7,10 +7,13 @@ const sourceSans3 = Source_Sans_3({
   display: 'swap',
 });
 
-const description = 'Learn React with this FREE ebook! Dive in with 50 projects complete with project briefs and wireframes.';
-const siteName = '50 Projects for React & the Static Web';
-const url = 'https://50reactprojects.com';
-const ogImage = `${url}/images/50-react-projects-og.jpg`;
+
+//todo pending replacements
+const description = 'pending';
+const siteName = 'pending';
+const url = 'pending';
+// const ogImage = `${url}/images/50-react-projects-og.jpg`;
+const ogImage = 'https://res.cloudinary.com/colbyfayock/image/upload/v1631114769/50-react-projects-og.jpg';
 
 export const metadata = {
   title: {
